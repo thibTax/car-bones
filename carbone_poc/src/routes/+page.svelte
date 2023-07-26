@@ -29,7 +29,7 @@
 <div class="p-4">
 	<header class="relative">
 		<div class="grid grid-cols-2 relative md:absolute w-full h-full z-20">
-			<h1 class=" flex ml-10 mt-6 lg:text-7xl md:text-6xl text-3xl font-bold  text-white">Carbone</h1>
+			<h1 class=" flex ml-6 mt-6 lg:text-7xl md:text-6xl text-2xl font-bold  text-white">Carbone</h1>
 			<div class="">
 				<label class="inline-flex items-center absolute cursor-pointer right-6 top-8 drop-shadow-md">
 				<input type="checkbox" value="" class="sr-only peer">
@@ -148,14 +148,14 @@
 			<li class="lg:mb-10 md:mb-6 ml-4 mt-5">
 				<div class="absolute w-3 h-3 bg-primary-500/50 rounded-full mt-1.5 -left-1.5 border border-primary-500/50 dark:border-gray-900 dark:bg-gray-700"></div>
 				<time class="mb-1 lg:text-sm text-xs font-normal leading-none text-gray-400 dark:text-gray-500">Octobre 2023</time>
-				<h3 class="lg:text-lg md:text-md text-sm font-semibold text-gray-900 dark:text-white">Mise en service de l'application</h3>
+				<h3 class="lg:text-lg md:text-md text-base font-semibold text-gray-900 dark:text-white">Mise en service de l'application</h3>
 				<p class="lg:text-base text-sm font-normal text-gray-500 dark:text-gray-400">L'application est maintenant disponible en avant première et gratuite à vie pour tous les participants (version V1.0)</p>
 			</li>
 			<li class="ml-4 mt-5">
 				<div class="absolute w-3 h-3 bg-primary-500/50 rounded-full mt-1.5 -left-1.5 border border-primary-500/50 dark:border-gray-900 dark:bg-gray-700"></div>
 				<time class="mb-1 lg:text-sm text-xs  font-normal leading-none text-gray-400 dark:text-gray-500">Novembre 2023</time>
 				<h3 class="lg:text-lg md:text-md text-base font-semibold text-gray-900 dark:text-white">Lancement de l'application</h3>
-				<p class="lg:text-base text-sm font-normal text-gray-500 dark:text-gray-400">L'application est déployé, ajout de la première fonctionnalité (achat/vente) </p>
+				<p class="lg:text-base text-sm font-normal text-gray-500 dark:text-gray-400">L'application est déployée, ajout de la première fonctionnalité (achat/vente) </p>
 			</li>
 		</ol>
 	</div>
